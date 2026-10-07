@@ -1,0 +1,6 @@
+{
+  "name": "TouchGuard",
+  "description": "AI Touch Guard & Anti-Theft Phone Security with voice assistant Max",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
